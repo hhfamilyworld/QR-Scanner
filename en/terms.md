@@ -1,6 +1,6 @@
 # QR Scanner Terms of Service
 
-**Effective Date**: July 1, 2026
+**Effective Date**: June 24, 2026
 
 ---
 
