@@ -4,7 +4,7 @@
 |---|---|
 | **App** | QR Scanner |
 | **Developer** | hhfamily |
-| **Effective Date** | July 1, 2026 |
+| **Effective Date** | June 24, 2026 |
 | **Contact** | h.h.family.world@gmail.com |
 
 ---
@@ -113,4 +113,4 @@ EU/UK residents also have the right to lodge a complaint with their local data p
 
 ---
 
-*This Privacy Policy is effective as of July 1, 2026.*
+*This Privacy Policy is effective as of June 24, 2026.*
